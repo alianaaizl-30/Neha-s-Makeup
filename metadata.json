@@ -1,0 +1,6 @@
+{
+  "name": "NEHA'S MAKEUP",
+  "description": "Discover NEHA'S MAKEUP: Effortless everyday beauty with modern formulas, inclusive shades, and signature dark royal packaging. 20% off all products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
